@@ -35,3 +35,7 @@ Current Progress:
 - Zurich
 - Singapore
 - Bangkok
+
+## Author
+
+Tejashwini R K
